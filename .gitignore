@@ -35,3 +35,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+/public/images/Expert
+/public/images/Gallery
+/public/images/cook
+/public/images/hero
+/public/images/logo
+/public/images/Features
